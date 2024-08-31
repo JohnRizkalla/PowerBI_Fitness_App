@@ -4,7 +4,7 @@ A fitness analysis application designed to track, analyze, and optimize your wor
 
   For data source click her: [Fitness Data](Data_Source/Data_Source.rar)
 
-  Short video on Linkedin: [Video](https://bit.ly/3WQ5XBZ)
+  Short video on LinkedIn: [Video](https://bit.ly/3WQ5XBZ)
 
 # Tools Used
   * Power BI
